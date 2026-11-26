@@ -1,11 +1,11 @@
 {
   "ios": {
-    "minSupportedVersion": "1.0.0",
+    "minSupportedVersion": "0.0.1",
     "latestVersion": "1.0.0",
     "storeUrl": "https://apple.com"
   },
   "android": {
-    "minSupportedVersion": "1.0.0",
+    "minSupportedVersion": "0.0.1",
     "latestVersion": "1.0.0",
     "storeUrl": "https://google.com"
   },
