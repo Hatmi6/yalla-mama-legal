@@ -1,0 +1,28 @@
+{
+  "ios": {
+    "minSupportedVersion": "1.0.0",
+    "latestVersion": "1.0.0",
+    "storeUrl": "https://apple.com"
+  },
+  "android": {
+    "minSupportedVersion": "1.0.0",
+    "latestVersion": "1.0.0",
+    "storeUrl": "https://google.com"
+  },
+  "status": {
+    "mode": "active",
+    "title": {
+      "en": "",
+      "ar": ""
+    },
+    "message": {
+      "en": "",
+      "ar": ""
+    },
+    "actionUrl": "",
+    "actionLabel": {
+      "en": "",
+      "ar": ""
+    }
+  }
+}
