@@ -1,16 +1,16 @@
 {
   "ios": {
     "minSupportedVersion": "0.0.1",
-    "latestVersion": "1.0.0",
+    "latestVersion": "0.0.1",
     "storeUrl": "https://apple.com"
   },
   "android": {
     "minSupportedVersion": "0.0.1",
-    "latestVersion": "1.0.0",
+    "latestVersion": "0.0.1",
     "storeUrl": "https://google.com"
   },
   "status": {
-    "mode": "active",
+    "mode": "maintenance", 
     "title": {
       "en": "",
       "ar": ""
